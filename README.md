@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BrynBowler
-- 👀 I’m interested in Junior Development/Database Administration
-- 🌱 I’m currently learning C# and ASP.NET
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: b.bowler@mail.com
